@@ -1,0 +1,105 @@
+body{
+
+  width:50%;
+  margin:0 auto;
+  background-image: url("img/legno.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
+
+}
+
+
+hr{
+
+
+}
+
+#hr2 {
+
+  border: 0;
+  width: 0px;
+  color: #655739;
+  background-color: #655739;
+  height: 0px;
+  margin: 1px;
+
+
+}
+
+
+header {
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+main{
+
+
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+
+}
+
+#email_numbers{
+
+  display: inline-block;
+  font-size: 35px;
+  background-color: orange;
+  border-radius: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+width: 37px;
+
+}
+
+
+button{
+
+  border-radius: 4px;
+  padding: 2px 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  margin: 5px 0px;
+  cursor: pointer
+
+}
+
+
+#Barra_info_email {
+
+
+  height: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+}
+
+#lista_email {
+
+  height: 5px;
+  margin-top: 130px;
+  margin-bottom: 5px;
+
+}
+
+
+
+footer{
+
+
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 240px;
+  margin-right: 240px;
+  margin-bottom: 20px;
+
+
+}
